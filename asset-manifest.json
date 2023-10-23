@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recipefinder/static/css/main.3592d9cc.css",
+    "main.js": "/recipefinder/static/js/main.34208bb5.js",
+    "static/js/787.ccfe93b3.chunk.js": "/recipefinder/static/js/787.ccfe93b3.chunk.js",
+    "static/media/vegetables-set-left-black-slate.jpg": "/recipefinder/static/media/vegetables-set-left-black-slate.f28aca96eef193d9160d.jpg",
+    "index.html": "/recipefinder/index.html",
+    "main.3592d9cc.css.map": "/recipefinder/static/css/main.3592d9cc.css.map",
+    "main.34208bb5.js.map": "/recipefinder/static/js/main.34208bb5.js.map",
+    "787.ccfe93b3.chunk.js.map": "/recipefinder/static/js/787.ccfe93b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3592d9cc.css",
+    "static/js/main.34208bb5.js"
+  ]
+}
